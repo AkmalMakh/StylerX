@@ -23,8 +23,8 @@
     <td><strong>After</strong></td>
   </tr>
   <tr>
-    <td><img src="expo_project/before.PNG" width="400" alt="Before" /></td>
-    <td><img src="expo_project/after.PNG" width="400" alt="After" /></td>
+    <td><img src="./before.PNG" width="400" alt="Before" /></td>
+    <td><img src="./after.PNG" width="400" alt="After" /></td>
   </tr>
 </table>
 

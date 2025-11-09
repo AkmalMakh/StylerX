@@ -9,7 +9,7 @@
 
 **AI-Powered Personal Color Analysis & Fashion Intelligence Platform**
 
-[Frontend](#-frontend-react-native-mobile-app) • [Backend](#-backend-fastapi-server) • [Architecture](#-system-architecture) • [Quick Start](#-quick-start)
+[Frontend](https://github.com/firdavs9777/expo_project#readme) • [Backend](https://github.com/ChoiVadim/stylist_ai_be#readme) • [Architecture](#-system-architecture) • [Quick Start](#-quick-start)
 
 </div>
 

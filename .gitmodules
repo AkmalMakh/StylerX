@@ -1,0 +1,6 @@
+[submodule "expo_project"]
+	path = expo_project
+	url = https://github.com/firdavs9777/expo_project
+[submodule "stylist_ai_be"]
+	path = stylist_ai_be
+	url = https://github.com/ChoiVadim/stylist_ai_be

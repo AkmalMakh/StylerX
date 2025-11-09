@@ -198,6 +198,8 @@ cd expo_project
 
 # Install dependencies
 npm install
+or 
+npm run start:tunnel 
 
 # Start development server
 npm start
